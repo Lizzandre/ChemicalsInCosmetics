@@ -16,6 +16,7 @@ Dermal and Oral Exposure: Although dermal penetration in humans is minimal, long
 #### References:
 
 Skocaj, M., Filipic, M., Petkovic, J., Novak, S. "Titanium dioxide in our everyday life; is it safe?" Radiol Oncol, 2011.
+
 Racovita, A.D. "Titanium Dioxide: Structure, Impact, and Toxicity." Int. J. Environ. Res. Public Health, 2022.
 
 ## Key Insights
