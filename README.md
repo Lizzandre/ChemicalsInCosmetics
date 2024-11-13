@@ -21,13 +21,14 @@ Racovita, A.D. "Titanium Dioxide: Structure, Impact, and Toxicity." Int. J. Envi
 
 ## Key Insights
 1. Product Distribution by Chemical
-The most commonly affected products include:
 
-Eye makeup (eye colors, eyeshadows)
-Nail products (lacquers, polishes)
-Lipsticks
+The most commonly affected products include:
+* Eye makeup (eye colors, eyeshadows)
+* Nail products (lacquers, polishes)
+* Lipsticks
 
 2. Brand Analysis
+   
 Among brands, Sephora, bareMinerals, and Revlon are the top three users of titanium dioxide. A breakdown of product types using this chemical includes:
 
 * Sephora: 4.7% of titanium dioxide products are "Colorful Removable Eyeshadow Pans," followed by 2% as "Cream Lip Stains."
@@ -35,6 +36,7 @@ Among brands, Sephora, bareMinerals, and Revlon are the top three users of titan
 * Revlon: "Super Lustrous Cream Lipstick Restage" represents 5%, and "Blush Reno" makes up 3.7%.
   
 3. Temporal Analysis
+   
 The data includes reporting dates but not manufacturing or sale dates, so trends over time reflect report submissions rather than product release dates. Key findings include:
 
 Peak Reporting Years: 2010 saw the highest number of titanium dioxide product reports, followed by 2019.
