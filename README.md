@@ -33,7 +33,7 @@ Among brands, Sephora, bareMinerals, and Revlon are the top three users of titan
 * Sephora: 4.7% of titanium dioxide products are "Colorful Removable Eyeshadow Pans," followed by 2% as "Cream Lip Stains."
 * bareMinerals: 24.4% of products are "Eyecolors," with 8.1% being "Ready Eyeshadows."
 * Revlon: "Super Lustrous Cream Lipstick Restage" represents 5%, and "Blush Reno" makes up 3.7%.
-* 
+  
 3. Temporal Analysis
 The data includes reporting dates but not manufacturing or sale dates, so trends over time reflect report submissions rather than product release dates. Key findings include:
 
